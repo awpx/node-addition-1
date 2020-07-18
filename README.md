@@ -1,1 +1,1 @@
-### Simple restful API tested with postman
+### Simple restful API, build with express & mongoose, tested with postman
